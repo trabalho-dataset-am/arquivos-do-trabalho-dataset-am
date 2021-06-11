@@ -4,4 +4,4 @@ Esta pasta contém os arquivos do trabalho prático (sobre um dataset) da discip
 ## UFF - Universidade Federal Fluminense ##
 Professora: Flávia Bernardini
 
-Alunos: Augusto Parisot e Marcelo Marques da Rocha
+Alunos: Augusto Parisot de Gusmão Neto e Marcelo Marques da Rocha

@@ -1,5 +1,5 @@
 # Arquivos do Trabalho de Aprendizado de Máquina
-Esta pasta contem os arquivos do trabalho prático (sobre um dataset) da disciplina de aprendizado de máquina.
+Esta pasta contém os arquivos do trabalho prático (sobre um dataset) da disciplina de aprendizado de máquina.
 
 Alunos: 
 * Augusto Parisot

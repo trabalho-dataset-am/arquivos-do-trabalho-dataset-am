@@ -2,4 +2,4 @@
 
 * ## Total de instâncias: 148.517
 
-* ## Número de features: 42
+* ## Número de features: 41

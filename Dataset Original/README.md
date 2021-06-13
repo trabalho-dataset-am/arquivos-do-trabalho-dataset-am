@@ -1,4 +1,4 @@
-# NSL-KDD-Dataset
+# NSL-KDD-Dataset (original)
 
 * ## Total de instâncias: 148.517
 * ## Número de atributos: 41
